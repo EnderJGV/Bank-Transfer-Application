@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DIO.Bank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c8adffc6c8299e30ebc54ef7d95904c99575285")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31eb1bb07fff29d65d718127c2422cacbd5a83f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DIO.Bank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DIO.Bank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

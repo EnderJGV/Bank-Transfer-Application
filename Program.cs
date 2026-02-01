@@ -8,7 +8,6 @@ namespace Dio.Bank
     class Program
     {
         static List<Conta> listaContas = new List<Conta>();
-
         
         static void Main(string[] args)
         {
