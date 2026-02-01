@@ -43,9 +43,11 @@ namespace Dio.Bank
                         break;
                     case "4":
                         // Depositar
+                        Depositar();
                         break;
                     case "5":
                         // Transferir
+                        
                         break;
                     case "0":
                         Console.WriteLine("Obrigado por usar nossos serviços.");
@@ -55,6 +57,17 @@ namespace Dio.Bank
                         break;
                 }
             }
+        }
+
+        private static void Depositar()
+        {
+            Console.WriteLine("Digite o número da conta: ");
+            int indiceConta = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Valor a ser depositado: ");
+            double valorDeposito = double.Parse(Console.ReadLine());
+
+            listaContas[indiceConta].Depositar(valorDeposito);
         }
 
         private static void ListarContas()
