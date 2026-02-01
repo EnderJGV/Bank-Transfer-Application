@@ -27,7 +27,7 @@ Implementar um sistema bancário simples com operações básicas como depositar
 
 ```
 DIO.Bank/
-├── bin/
+├── Class/
 │   ├── Conta.cs
 ├── Enum/
 │   ├── TipoConta.cs
