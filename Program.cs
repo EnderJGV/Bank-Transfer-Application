@@ -47,7 +47,7 @@ namespace Dio.Bank
                         break;
                     case "5":
                         // Transferir
-                        
+                        Transferir();
                         break;
                     case "0":
                         Console.WriteLine("Obrigado por usar nossos serviços.");
@@ -57,6 +57,20 @@ namespace Dio.Bank
                         break;
                 }
             }
+        }
+
+        private static void Transferir()
+        {
+            Console.WriteLine("Digite o número da conta de origem: ");
+            int indiceContaOrigem = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o número da conta de destino: ");
+            int indiceContaDestino = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o valor da transferencia: ");
+            double valorTransferencia = double.Parse(Console.ReadLine());
+
+            listaContas[indiceContaOrigem].Transferir(valorTransferencia, listaContas[indiceContaDestino]);
         }
 
         private static void Depositar()
