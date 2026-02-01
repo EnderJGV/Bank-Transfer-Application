@@ -1,0 +1,15 @@
+C:\Projetos\dotnetProjetos\DIO.Bank\bin\Debug\net8.0\DIO.Bank.exe
+C:\Projetos\dotnetProjetos\DIO.Bank\bin\Debug\net8.0\DIO.Bank.deps.json
+C:\Projetos\dotnetProjetos\DIO.Bank\bin\Debug\net8.0\DIO.Bank.runtimeconfig.json
+C:\Projetos\dotnetProjetos\DIO.Bank\bin\Debug\net8.0\DIO.Bank.dll
+C:\Projetos\dotnetProjetos\DIO.Bank\bin\Debug\net8.0\DIO.Bank.pdb
+C:\Projetos\dotnetProjetos\DIO.Bank\obj\Debug\net8.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\dotnetProjetos\DIO.Bank\obj\Debug\net8.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\Projetos\dotnetProjetos\DIO.Bank\obj\Debug\net8.0\DIO.Bank.AssemblyInfo.cs
+C:\Projetos\dotnetProjetos\DIO.Bank\obj\Debug\net8.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Projetos\dotnetProjetos\DIO.Bank\obj\Debug\net8.0\DIO.Bank.sourcelink.json
+C:\Projetos\dotnetProjetos\DIO.Bank\obj\Debug\net8.0\DIO.Bank.dll
+C:\Projetos\dotnetProjetos\DIO.Bank\obj\Debug\net8.0\refint\DIO.Bank.dll
+C:\Projetos\dotnetProjetos\DIO.Bank\obj\Debug\net8.0\DIO.Bank.pdb
+C:\Projetos\dotnetProjetos\DIO.Bank\obj\Debug\net8.0\DIO.Bank.genruntimeconfig.cache
+C:\Projetos\dotnetProjetos\DIO.Bank\obj\Debug\net8.0\ref\DIO.Bank.dll
