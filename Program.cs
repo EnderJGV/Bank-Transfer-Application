@@ -31,12 +31,7 @@ namespace Dio.Bank
                 {
                     case "1":
                         // Listar Contas
-                        int totalContas = listaContas.Count;
-
-                        for(int i = 0 ; i < totalContas; i++)
-                        {
-                            Console.WriteLine($"{i} - {listaContas[i].ToString()}");
-                        }
+                        ListarContas();
                         break;
                     case "2":
                         // Criar Nova Conta
@@ -59,6 +54,16 @@ namespace Dio.Bank
                         Console.WriteLine("Opção inválida. Tente novamente.");
                         break;
                 }
+            }
+        }
+
+        private static void ListarContas()
+        {
+            int totalContas = listaContas.Count;
+
+            for (int i = 0; i < totalContas; i++)
+            {
+                Console.WriteLine($"{i} - {listaContas[i].ToString()}");
             }
         }
 
